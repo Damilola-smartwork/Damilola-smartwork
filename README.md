@@ -1,6 +1,12 @@
 ## Hello 👋
 
 🌱 I’m currently learning JavaScript
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://preview.redd.it/tucson-moonrise-v0-aafgxrlr94ie1.jpeg?width=1080&crop=smart&auto=webp&s=fe93a7977894ccaf2b1997b98f9f7ea6b8d173ed">
+ <source media="(prefers-color-scheme: light)" srcset="https://preview.redd.it/winter-in-japan-v0-t95f0ijjeiie1.jpeg?width=1080&crop=smart&auto=webp&s=2339f4b547dfff5ae5bad0fb46c79c546c34cae9">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
 <!--
 **Damilola-smartwork/Damilola-smartwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
