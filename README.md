@@ -1,6 +1,6 @@
 ## Hello 👋
 
-🌱 I’m currently learning JavaScript
+🌱 I’m currently learning Harvard CS50X
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://preview.redd.it/tucson-moonrise-v0-aafgxrlr94ie1.jpeg?width=1080&crop=smart&auto=webp&s=fe93a7977894ccaf2b1997b98f9f7ea6b8d173ed">
